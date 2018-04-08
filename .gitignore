@@ -1,0 +1,10 @@
+# Python:
+*.pyc
+*.so
+*.egg
+dist
+bulid
+
+# input
+input/
+output/
